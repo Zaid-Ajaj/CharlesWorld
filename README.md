@@ -5,7 +5,7 @@ void clean_string_with_balls();
 void clean_chaos_with_balls();
 void around_the_block();
 ```
-It also contains a solution for Part 1.2 of the Stack snapshots as "ASCII"-art inside a multi-line comment (should be easy to find if you scroll through the `Charles.cpp` find).
+It also contains a solution for Part 1.2 of the Stack snapshots as "ASCII"-art inside a multi-line comment (should be easy to find if you scroll through the `Charles.cpp` file).
 
 # Installation Code::Blocks (Windows)
 To run this project, you will need the [Code::Blocks 16.01](http://www.codeblocks.org/) IDE which you can download from [this link](sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe). This installation contains the g++ compiler bundled with `Code::Blocks`
