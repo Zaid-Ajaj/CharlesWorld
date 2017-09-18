@@ -1,12 +1,10 @@
 #include <iostream>
 #include <cmath>
-#include <cstdio>
-#include <iostream>
 
 using namespace std;
 
+// Name: Ciske Harsema / s1010048 / Informatica
 // Name: Zaid Ajaj / s4807561 / Informatica & Wiskunde
-
 
 
 double square(double x)
@@ -188,7 +186,7 @@ Algorithms comparisons - Assignment part 1.4
 
 from the Desktop test results shown in the comment above we can infer that the inclusion method is more accurate than
 Newton-Raphson method when dealing with small numbers (such as 0 and 0.25) but the Newton-Raphson method is much better for larger numbers
-such as 83 as it converged faster (= less iterations) than the inclusion method to find the approximation
+such as 83 as it converged faster (= required less iterations) than the inclusion method to find the approximation
 
 */
 
@@ -199,6 +197,7 @@ int main()
     // uncomment the code below
 
     /*
+    double numbers[] = { 0, 1, 0.25, 16, 83 };
     for(int i = 0; i < 5; i++)
     {
         cout << "sqrt(" << numbers[i] << ") = " << inclusion(0.01, numbers[i]) << endl;
