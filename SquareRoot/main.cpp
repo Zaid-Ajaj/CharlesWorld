@@ -3,7 +3,6 @@
 
 using namespace std;
 
-// Name: Ciske Harsema / s1010048 / Informatica
 // Name: Zaid Ajaj / s4807561 / Informatica & Wiskunde
 
 
